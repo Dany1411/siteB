@@ -5,6 +5,13 @@
 h1{
     text-align: center;
 }
+.navigation{
+    background-color: #111;
+}
+nav {
+    display: table;
+    margin: 0 auto;
+}
 nav ul {
     list-style-type: none;
     margin: 0;
