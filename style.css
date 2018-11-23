@@ -31,3 +31,10 @@ nav li a:hover {
 nav li a:active {
     background-color: #111;
 }
+.hero-image{
+    padding: 100px 0px 100px 0px;
+    background-color: #efefef;
+}
+.hero-image h1{
+    color: #333;
+}
